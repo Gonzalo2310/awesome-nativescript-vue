@@ -1,4 +1,4 @@
-# Awesome Nativescript Vue
+# Awesome NativeScript Vue
 NativeScript-vue resource collection. 
 
 This is a document to be completed together. Collaboration with the "revision" branch.
