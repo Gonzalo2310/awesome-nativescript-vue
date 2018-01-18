@@ -6,23 +6,12 @@ This is a document to be completed together. Collaboration with the "revision" b
 Thank you
 
 
+## Official:
 
-## Official Documentation
-
-https://nativescript-vue.org/#/
-
-## Official Repository
-
-https://github.com/rigor789/nativescript-vue
-
-## Official Slack
-[NativeScript](https://developer.telerik.com/wp-login.php?action=slack-invitation)
-
-## Official Patreon to support the project
-
-https://www.patreon.com/rigor789
-
-
+[Documentation](https://nativescript-vue.org/#/)
+[Repository](https://github.com/rigor789/nativescript-vue)
+[Slack NativeScript](https://developer.telerik.com/wp-login.php?action=slack-invitation)
+[Patreon to support the project](https://www.patreon.com/rigor789)
 
 ## Code Examples:
 
@@ -30,11 +19,11 @@ https://www.patreon.com/rigor789
 
 [Easy app for drawing circles](https://play.nativescript.org/?template=play-vue&id=nbDfjl)
 
-## GitHub:
+### GitHub:
 
 [TableDraw (example of using socket.io)](https://github.com/Gonzalo2310/PanelDraw-NativeScript-Vue)
-
 [A NativeScript+Vue iOS and Android app for managing grocery lists](https://github.com/tralves/groceries-ns-vue)
+
 
 ## Projects:
 
