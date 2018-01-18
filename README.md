@@ -15,6 +15,9 @@ https://nativescript-vue.org/#/
 
 https://github.com/rigor789/nativescript-vue
 
+##Official Slack
+[NativeScript](https://developer.telerik.com/wp-login.php?action=slack-invitation)
+
 ## Official Patreon to support the project
 
 https://www.patreon.com/rigor789
@@ -36,5 +39,3 @@ https://www.patreon.com/rigor789
 ## Projects:
 
 [A WIP webpack template for nativescript-vue with (optional?) code-sharing]( https://github.com/rigor789/nativescript-vue-webpack-template)
-
-``
