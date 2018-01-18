@@ -9,9 +9,14 @@ Thank you
 ## Official:
 
 [Documentation](https://nativescript-vue.org/#/)
+
 [Repository](https://github.com/rigor789/nativescript-vue)
+
 [Slack NativeScript](https://developer.telerik.com/wp-login.php?action=slack-invitation)
+
 [Patreon to support the project](https://www.patreon.com/rigor789)
+
+
 
 ## Code Examples:
 
@@ -22,6 +27,7 @@ Thank you
 ### GitHub:
 
 [TableDraw (example of using socket.io)](https://github.com/Gonzalo2310/PanelDraw-NativeScript-Vue)
+
 [A NativeScript+Vue iOS and Android app for managing grocery lists](https://github.com/tralves/groceries-ns-vue)
 
 
