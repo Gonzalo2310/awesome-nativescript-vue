@@ -15,7 +15,7 @@ https://nativescript-vue.org/#/
 
 https://github.com/rigor789/nativescript-vue
 
-##Official Slack
+## Official Slack
 [NativeScript](https://developer.telerik.com/wp-login.php?action=slack-invitation)
 
 ## Official Patreon to support the project
