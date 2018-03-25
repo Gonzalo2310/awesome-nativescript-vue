@@ -16,6 +16,7 @@ Thank you
 
 [Patreon to support the project](https://www.patreon.com/rigor789)
 
+
 ## Articles
 
 [Getting Started with NativeScript-Vue 1.0](https://vuejsdevelopers.com/2018/03/05/getting-started-vue-nativescript/)
@@ -62,3 +63,4 @@ Thank you
 [A sample repo to show how to integrate the Vue-CLI template with a router](https://github.com/jlooper/ns-vue-with-router/)
 
 [A Vue-CLI (2.x) template with `.vue` file support.](https://github.com/nativescript-vue/vue-cli-template)
+
