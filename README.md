@@ -21,6 +21,8 @@ Thank you
 
 [Getting Started with NativeScript-Vue 1.0](https://vuejsdevelopers.com/2018/03/05/getting-started-vue-nativescript/)
 
+[A Brief Intro to Using Vue.js with NativeScript](https://www.nativescript.org/blog/a-brief-intro-to-using-vue-with-nativescript)
+
 [Nativescript-vue and vue-cli!](https://github.com/damain/Articles/blob/master/posts/Nativescript-vue-and-vue-cli.md)
 
 [Enabling Debugging](https://github.com/damain/Articles/blob/master/posts/Enabling_debugging.md)
