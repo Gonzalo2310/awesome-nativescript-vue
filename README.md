@@ -29,6 +29,8 @@ Thank you
 
 [Installing plugins in the vue-cli template](https://github.com/damain/Articles/blob/master/posts/installing-plugins.md)
 
+[Using Plugins in a NativeScript-Vue App](https://www.nativescript.org/blog/using-plugins-in-a-nativescript-vue-app)
+
 [Using Parse in NativeScript-Vue](https://nativescript-vue.org/blog/using-parse-in-nativescript-vue/)
 
 [Native apps with Vue.js: Weex or NativeScript?](https://hackernoon.com/native-apps-with-vue-js-weex-or-nativescript-8d8f0bac041d)
