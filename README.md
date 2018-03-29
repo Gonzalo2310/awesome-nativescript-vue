@@ -37,6 +37,10 @@ Thank you
 
 [Jen’s excellent FrontEndDeveloperLove and VueJsAmsterdam adventure](https://www.telerik.com/blogs/jen's-excellent-adventure-in-amsterdam)
 
+[The Writing and Rewriting of EloCute: A NativeScript-Vue Story](https://www.nativescript.org/blog/the-writing-and-rewriting-of-elocute-a-nativescript-vue-story)
+
+[Setting Up a Robust NativeScript-Vue Development Environment](https://www.nativescript.org/blog/setting-up-a-robust-nativescript-vue-development-environment)
+
 ## Videos
 
 [Creating Engaging Mobile Apps with NativeScript and Vue](https://www.todojs.com/creating-engaging-mobile-apps-with-nativescript-and-vue/)
