@@ -14,7 +14,17 @@ Thank you
 
 [Slack NativeScript](https://developer.telerik.com/wp-login.php?action=slack-invitation)
 
-[Patreon to support the project](https://www.patreon.com/rigor789)
+[Patreon to support the project NativeScript + Vue](https://www.patreon.com/rigor789)
+
+## Published Apps
+
+### Google Play
+
+[Salons Industriels](https://play.google.com/store/apps/details?id=com.salonsindustriels)
+
+### Apple Store
+
+[Salons Industriels](https://itunes.apple.com/ca/app/salons-industriels/id1361714685?mt=8)
 
 
 ## Articles
