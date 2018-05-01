@@ -51,9 +51,12 @@ Thank you
 
 [Setting Up a Robust NativeScript-Vue Development Environment](https://www.nativescript.org/blog/setting-up-a-robust-nativescript-vue-development-environment)
 
+[Using NativeScript to build Particle-powered mobile apps](https://www.hackster.io/brandonsatrom/using-nativescript-to-build-particle-powered-mobile-apps-ea6e99)
+
 ## Videos
 
 [Creating Engaging Mobile Apps with NativeScript and Vue](https://www.todojs.com/creating-engaging-mobile-apps-with-nativescript-and-vue/)
+[A New Vue for NativeScript](https://www.youtube.com/watch?v=LDqsuLQqLrQ)
 
 ## Slider's
 
