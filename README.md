@@ -53,6 +53,8 @@ Thank you
 
 [Using NativeScript to build Particle-powered mobile apps](https://www.hackster.io/brandonsatrom/using-nativescript-to-build-particle-powered-mobile-apps-ea6e99)
 
+[Unsung Heroes of Vue: Igor Randjelovic](https://medium.com/@oneminutejs/unsung-heroes-of-vue-igor-randjelovic-5a3cb92907a3)
+
 ## Videos
 
 [Creating Engaging Mobile Apps with NativeScript and Vue](https://www.todojs.com/creating-engaging-mobile-apps-with-nativescript-and-vue/)
