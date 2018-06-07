@@ -61,6 +61,8 @@ Thank you
 
 [A New Vue for NativeScript](https://www.youtube.com/watch?v=LDqsuLQqLrQ)
 
+[Jen Looper - Cheese Comparing NativeScript, Ionic, and React Native for Mobile App](https://www.youtube.com/watch?v=1Kqtg1Mw2wc)
+
 ## Slider's
 
 [Create An Engaging Mobile App With NativeScript And Vue.Js](http://slides.com/telerikdevrel/ns-vue#/)
