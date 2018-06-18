@@ -55,6 +55,8 @@ Thank you
 
 [Unsung Heroes of Vue: Igor Randjelovic](https://medium.com/@oneminutejs/unsung-heroes-of-vue-igor-randjelovic-5a3cb92907a3)
 
+[Key-Value Local Storage in a Vue.js NativeScript App with Vuex](https://www.nativescript.org/blog/key-value-local-storage-in-a-vue.js-nativescript-app-with-vuex)
+
 ## Videos
 
 [Creating Engaging Mobile Apps with NativeScript and Vue](https://www.todojs.com/creating-engaging-mobile-apps-with-nativescript-and-vue/)
@@ -82,6 +84,8 @@ Thank you
 [A NativeScript+Vue iOS and Android app for managing grocery lists](https://github.com/tralves/groceries-ns-vue)
 
 [Web site and Mobile app for language teachers and their students](https://github.com/jlooper/elocute)
+
+[A story about how I finally got Nativescript, Vue, Typescript, and Webpack 4 to be in the same room without screaming and hair-tearing.](https://github.com/sgehly/Nativescript-Vue-Typescript-Example)
 
 
 ## Template's:
