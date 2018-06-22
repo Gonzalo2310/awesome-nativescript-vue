@@ -59,6 +59,8 @@ Thank you
 
 [Data Management with SQLite and Vuex in a NativeScript-Vue App](https://www.nativescript.org/blog/data-management-with-sqlite-and-vuex-in-a-nativescript-vue-app)
 
+[Getting Started with building Mobile Apps with NativeScript and Vue.js](https://itnext.io/getting-started-with-building-mobile-apps-with-nativescript-and-vue-js-59a7dcf24cd)
+
 ## Videos
 
 [Creating Engaging Mobile Apps with NativeScript and Vue](https://www.todojs.com/creating-engaging-mobile-apps-with-nativescript-and-vue/)
