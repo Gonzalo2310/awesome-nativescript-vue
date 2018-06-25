@@ -91,6 +91,8 @@ Thank you
 
 [A story about how I finally got Nativescript, Vue, Typescript, and Webpack 4 to be in the same room without screaming and hair-tearing.](https://github.com/sgehly/Nativescript-Vue-Typescript-Example)
 
+[Demo project of ns-vue with code sharing between web and native builds.](https://github.com/tralves/ns-vue-codeshare-demo)
+
 
 ## Template's:
 
