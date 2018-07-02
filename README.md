@@ -61,6 +61,8 @@ Thank you
 
 [Getting Started with building Mobile Apps with NativeScript and Vue.js](https://itnext.io/getting-started-with-building-mobile-apps-with-nativescript-and-vue-js-59a7dcf24cd)
 
+[Make HTTP Requests to Remote Web Services in a NativeScript-Vue App](https://vuejsdevelopers.com/2018/07/02/vue-js-native-script-vue-http-web-service/)
+
 ## Videos
 
 [Creating Engaging Mobile Apps with NativeScript and Vue](https://www.todojs.com/creating-engaging-mobile-apps-with-nativescript-and-vue/)
