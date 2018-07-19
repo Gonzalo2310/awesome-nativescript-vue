@@ -63,6 +63,8 @@ Thank you
 
 [Make HTTP Requests to Remote Web Services in a NativeScript-Vue App](https://vuejsdevelopers.com/2018/07/02/vue-js-native-script-vue-http-web-service/)
 
+[Include Feature-Rich Maps in a NativeScript-Vue App with Mapbox](https://www.nativescript.org/blog/include-feature-rich-maps-in-a-nativescript-vue-app-with-mapbox)
+
 ## Videos
 
 [Creating Engaging Mobile Apps with NativeScript and Vue](https://www.todojs.com/creating-engaging-mobile-apps-with-nativescript-and-vue/)
