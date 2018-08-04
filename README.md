@@ -65,6 +65,10 @@ Thank you
 
 [Include Feature-Rich Maps in a NativeScript-Vue App with Mapbox](https://www.nativescript.org/blog/include-feature-rich-maps-in-a-nativescript-vue-app-with-mapbox)
 
+[Using Typescript in Nativescript-Vue Apps](https://nativescript-vue.org/blog/using-typescript-in-nativescript-vue/)
+
+[Using Fonticons](https://nativescript-vue.org/blog/using-fonticons/)
+
 ## Videos
 
 [Creating Engaging Mobile Apps with NativeScript and Vue](https://www.todojs.com/creating-engaging-mobile-apps-with-nativescript-and-vue/)
