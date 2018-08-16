@@ -69,6 +69,8 @@ Thank you
 
 [Using Fonticons](https://nativescript-vue.org/blog/using-fonticons/)
 
+[Renderless Components in NativeScript-Vue](https://www.nativescript.org/blog/renderless-components-in-nativescript-vue)
+
 ## Videos
 
 [Creating Engaging Mobile Apps with NativeScript and Vue](https://www.todojs.com/creating-engaging-mobile-apps-with-nativescript-and-vue/)
