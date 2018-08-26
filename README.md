@@ -43,7 +43,7 @@ Thank you
 
 [Using Parse in NativeScript-Vue](https://nativescript-vue.org/blog/using-parse-in-nativescript-vue/)
 
-[Native apps with Vue.js: Weex or NativeScript?](https://hackernoon.com/native-apps-with-vue-js-weex-or-nativescript-8d8f0bac041d)
+Native apps with Vue.js: Weex or NativeScript? [chapter 1](https://hackernoon.com/native-apps-with-vue-js-weex-or-nativescript-8d8f0bac041d) and [chapter 2](https://hackernoon.com/native-apps-with-vue-js-weex-or-nativescript-chapter-ii-6d1776da090d)
 
 [Jen’s excellent FrontEndDeveloperLove and VueJsAmsterdam adventure](https://www.telerik.com/blogs/jen's-excellent-adventure-in-amsterdam)
 
@@ -104,9 +104,10 @@ Thank you
 [Demo project of ns-vue with code sharing between web and native builds.](https://github.com/tralves/ns-vue-codeshare-demo)
 
 
-## Template's:
+## Templates:
 
 [A sample repo to show how to integrate the Vue-CLI template with a router](https://github.com/jlooper/ns-vue-with-router/)
 
 [A Vue-CLI (2.x) template with `.vue` file support.](https://github.com/nativescript-vue/vue-cli-template)
 
+[Boilerplate app with Vuex, vue-router, side drawer, login page, etc.](https://github.com/thiagohagy/nativescriptVueTemplate)
