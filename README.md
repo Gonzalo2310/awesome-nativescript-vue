@@ -71,6 +71,8 @@ Native apps with Vue.js: Weex or NativeScript? [chapter 1](https://hackernoon.co
 
 [Renderless Components in NativeScript-Vue](https://www.nativescript.org/blog/renderless-components-in-nativescript-vue)
 
+[Native Mobile Apps in Javascript without the Hard Parts™](https://blog.championswimmer.in/2018/08/nativescript-vue-introduction/)
+
 ## Videos
 
 [Creating Engaging Mobile Apps with NativeScript and Vue](https://www.todojs.com/creating-engaging-mobile-apps-with-nativescript-and-vue/)
