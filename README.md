@@ -75,6 +75,8 @@ Native apps with Vue.js: Weex or NativeScript? [chapter 1](https://hackernoon.co
 
 [A Sneak Peek of NativeScript-Vue 2.0!](https://dev.to/vuevixens/a-sneak-peek-of-nativescript-vue-20-k7j)
 
+[Behold! NativeScript-Vue 2.0!](https://www.nativescript.org/blog/behold-nativescript-vue-2.0)
+
 ## Videos
 
 [Creating Engaging Mobile Apps with NativeScript and Vue](https://www.todojs.com/creating-engaging-mobile-apps-with-nativescript-and-vue/)
