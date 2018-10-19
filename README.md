@@ -109,6 +109,8 @@ Native apps with Vue.js: Weex or NativeScript? [chapter 1](https://hackernoon.co
 
 [Demo project of ns-vue with code sharing between web and native builds.](https://github.com/tralves/ns-vue-codeshare-demo)
 
+[A native white-label application built with NativeScript-Vue for community radios](https://github.com/Cambalab/ns-vue-radio)
+
 
 ## Templates:
 
