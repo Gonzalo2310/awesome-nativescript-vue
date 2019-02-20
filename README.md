@@ -77,6 +77,8 @@ Native apps with Vue.js: Weex or NativeScript? [chapter 1](https://hackernoon.co
 
 [Behold! NativeScript-Vue 2.0!](https://www.nativescript.org/blog/behold-nativescript-vue-2.0)
 
+[NativeScript 5.2 Comes with Official Support for Vue.js](https://www.nativescript.org/blog/nativescript-5.2-comes-with-official-support-for-vue)
+
 ## Videos
 
 [Creating Engaging Mobile Apps with NativeScript and Vue](https://www.todojs.com/creating-engaging-mobile-apps-with-nativescript-and-vue/)
@@ -118,4 +120,4 @@ Native apps with Vue.js: Weex or NativeScript? [chapter 1](https://hackernoon.co
 
 [A Vue-CLI (2.x) template with `.vue` file support.](https://github.com/nativescript-vue/vue-cli-template)
 
-[Boilerplate app with Vuex, vue-router, side drawer, login page, etc.](https://github.com/thiagohagy/nativescriptVueTemplate)
+[Boilerplate app with Vuex, vue-router, side drawer, login page, etc.](https://github.com/thiagohagy/nativescriptVueTemplate)````
