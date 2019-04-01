@@ -130,4 +130,4 @@ Native apps with Vue.js: Weex or NativeScript? [chapter 1](https://hackernoon.co
 
 [A Vue-CLI (2.x) template with `.vue` file support.](https://github.com/nativescript-vue/vue-cli-template)
 
-[Boilerplate app with Vuex, vue-router, side drawer, login page, etc.](https://github.com/thiagohagy/nativescriptVueTemplate)````
+[Boilerplate app with Vuex, vue-router, side drawer, login page, etc.](https://github.com/thiagohagy/nativescriptVueTemplate)
