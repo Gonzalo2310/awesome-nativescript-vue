@@ -79,6 +79,14 @@ Native apps with Vue.js: Weex or NativeScript? [chapter 1](https://hackernoon.co
 
 [NativeScript 5.2 Comes with Official Support for Vue.js](https://www.nativescript.org/blog/nativescript-5.2-comes-with-official-support-for-vue)
 
+[Learn NativeScript-Vue the Easy Way](<https://www.nativescript.org/blog/learn-nativescript-vue-the-easy-way>)
+
+[Working with Vuex in Your NativeScript-Vue Application - Now with Cats!](<https://www.nativescript.org/blog/working-with-vuex-in-your-nativescript-vue-application-now-with-cats>)
+
+[NativeScript-Vue with Class Components](<https://www.nativescript.org/blog/nativescript-vue-with-class-components>)
+
+[Code Sharing with NativeScript-Vue](<https://www.nativescript.org/blog/code-sharing-with-nativescript-vue>)
+
 ## Videos
 
 [Creating Engaging Mobile Apps with NativeScript and Vue](https://www.todojs.com/creating-engaging-mobile-apps-with-nativescript-and-vue/)
