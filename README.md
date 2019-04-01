@@ -87,6 +87,8 @@ Native apps with Vue.js: Weex or NativeScript? [chapter 1](https://hackernoon.co
 
 [Code Sharing with NativeScript-Vue](<https://www.nativescript.org/blog/code-sharing-with-nativescript-vue>)
 
+[Make HTTP Requests to Remote Web Services in a NativeScript-Vue App](<https://vuejsdevelopers.com/2018/07/02/vue-js-native-script-vue-http-web-service/>)
+
 ## Videos
 
 [Creating Engaging Mobile Apps with NativeScript and Vue](https://www.todojs.com/creating-engaging-mobile-apps-with-nativescript-and-vue/)
