@@ -117,6 +117,8 @@ Native apps with Vue.js: Weex or NativeScript? [chapter 1](https://hackernoon.co
 
 [Web site and Mobile app for language teachers and their students](https://github.com/jlooper/elocute)
 
+[Realtime Location tracking app with Nativescript + Vue](https://github.com/saibbyweb/Realtime-Location-Tracking-NativeScript-Vue)
+
 [A story about how I finally got Nativescript, Vue, Typescript, and Webpack 4 to be in the same room without screaming and hair-tearing.](https://github.com/sgehly/Nativescript-Vue-Typescript-Example)
 
 [Demo project of ns-vue with code sharing between web and native builds.](https://github.com/tralves/ns-vue-codeshare-demo)
