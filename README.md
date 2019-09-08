@@ -103,6 +103,18 @@ Native apps with Vue.js: Weex or NativeScript? [chapter 1](https://hackernoon.co
 
 [Jen Looper - Cheese Comparing NativeScript, Ionic, and React Native for Mobile App](https://www.youtube.com/watch?v=1Kqtg1Mw2wc)
 
+[Platform Specific NativeScript Vue Components](https://www.youtube.com/watch?v=91E_12NvFJ0)
+
+[NativeScript-Vue Multiple Frames | NativeScript Tutorial](https://www.youtube.com/watch?v=exE1WfPvAX0)
+
+[NativeScript Vue Manual Routing Function Typing](https://www.youtube.com/watch?v=lWdWP1lD9xs)
+
+[Using TypeScript Class Components in NativeScript Vue](https://www.youtube.com/watch?v=u8lMkgb-8iA&t=1s)
+
+[NativeScript-Vue with TypeScript and Class Components](https://www.youtube.com/watch?v=Z9koujDvpBM&t=1s)
+
+
+
 ## Slider's
 
 [Create An Engaging Mobile App With NativeScript And Vue.Js](http://slides.com/telerikdevrel/ns-vue#/)
